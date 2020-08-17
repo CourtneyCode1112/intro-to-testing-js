@@ -9,4 +9,8 @@ function sayHello(input) {
     } else {
         return "Hello, World!";
     }
-};
+}
+
+function isFive(input) {
+    return input == 5
+}
